@@ -3,16 +3,16 @@ html, body {
     color: black;
 }
 
-/*body {*/
-/*    background-image: url("../img/pexels-pixabay-235985.jpg");*/
-/*    background-size: cover;*/
-/*    background-repeat: no-repeat;*/
-/*    background-attachment: fixed;*/
-/*}*/
-
 body {
-    background-color: lightgoldenrodyellow;
+    background-image: url("../img/pexels-pixabay-235985.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
+/*body {*/
+/*    background-color: lightgoldenrodyellow;*/
+/*}*/
 
 .contact-info a {
     color: black;
